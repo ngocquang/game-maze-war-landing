@@ -1,15 +1,15 @@
 # Maze War — landing page
 
-The public website for the game Maze War: game page, Privacy Policy, Terms of Use and Support, in English and Vietnamese.
+The public website for the game Maze War: game page, Privacy Policy, Terms of Use and Support.
 
 Live site: https://ngocquang.github.io/game-maze-war-landing/
 
-| Page | English | Vietnamese |
-|---|---|---|
-| Home | [/](https://ngocquang.github.io/game-maze-war-landing/) | [/vi/](https://ngocquang.github.io/game-maze-war-landing/vi/) |
-| Privacy Policy | [/privacy.html](https://ngocquang.github.io/game-maze-war-landing/privacy.html) | [/vi/privacy.html](https://ngocquang.github.io/game-maze-war-landing/vi/privacy.html) |
-| Terms of Use | [/terms.html](https://ngocquang.github.io/game-maze-war-landing/terms.html) | [/vi/terms.html](https://ngocquang.github.io/game-maze-war-landing/vi/terms.html) |
-| Support | [/support.html](https://ngocquang.github.io/game-maze-war-landing/support.html) | [/vi/support.html](https://ngocquang.github.io/game-maze-war-landing/vi/support.html) |
+| Page | URL |
+|---|---|
+| Home | [/](https://ngocquang.github.io/game-maze-war-landing/) |
+| Privacy Policy | [/privacy.html](https://ngocquang.github.io/game-maze-war-landing/privacy.html) |
+| Terms of Use | [/terms.html](https://ngocquang.github.io/game-maze-war-landing/terms.html) |
+| Support | [/support.html](https://ngocquang.github.io/game-maze-war-landing/support.html) |
 
 ## Stack
 
